@@ -19,7 +19,7 @@ Welcome to Restopage, the ultimate restaurant order management app designed to s
 
 ## Project Structure
 Below is the directory structure of the Restopage project:
-
+```bash
 Restopage/
 ├── assets
 │   └── images
@@ -123,3 +123,4 @@ Restopage/
 ├── pubspec.lock
 ├── pubspec.yaml
 └── README.md
+```
