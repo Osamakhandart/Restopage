@@ -42,28 +42,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '522951729770',
     projectId: 'restopage-47926',
     storageBucket: 'restopage-47926.appspot.com',
-    // iosClientId:
-    //     '1070334926818-5ofaaut2gmrspneslu464g9gkakgvdo3.apps.googleusercontent.com',
+    
     iosBundleId: 'com.restopage',
   );
-  // static const FirebaseOptions android = FirebaseOptions(
-  //   projectId: 'restopage-c2e64',
-  //   apiKey: 'AIzaSyAVxLl_1je-evah2jcwCMBL7CQyxtKzcao',
-  //   appId: '1:1070334926818:android:64307390bfcd68d79963bb',
-  //   androidClientId:
-  //       '1070334926818-5ofaaut2gmrspneslu464g9gkakgvdo3.apps.googleusercontent.com',
-  //   messagingSenderId: '1070334926818',
-  //   storageBucket: 'restopage-c2e64.appspot.com',
-  // );
-  //
-  // static const FirebaseOptions ios = FirebaseOptions(
-  //   apiKey: 'AIzaSyB2OUopp0b7qmr1F_pxKPLNYjvNnLnveqo',
-  //   appId: '1:1070334926818:ios:10219ffdf4b561229963bb',
-  //   messagingSenderId: '1070334926818',
-  //   projectId: 'restopage-c2e64',
-  //   storageBucket: 'restopage-c2e64.appspot.com',
-  //   iosClientId:
-  //       '1070334926818-5ofaaut2gmrspneslu464g9gkakgvdo3.apps.googleusercontent.com',
-  //   iosBundleId: 'com.made4you.restoPage',
-  // );
+ 
 }
