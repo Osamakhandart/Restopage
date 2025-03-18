@@ -43,3 +43,49 @@ Restopage/
 ├── utils/
 │ └── app_routes.dart
 
+Restopage/
+|-- api/
+| |-- repo/
+| | |-- Various repositories for handling API calls.
+| |-- api_exception.dart
+| |-- api_extension.dart
+| |-- api_helpers.dart
+|-- constants/
+| |-- app_assets.dart
+| |-- app_colors.dart
+| |-- app_strings.dart
+| |-- request_constants.dart
+|-- controllers/
+| |-- home_screen_controller.dart
+| |-- login_controller.dart
+| |-- new_test_order_controller.dart
+|-- models/
+| |-- Various model files representing data structures.
+|-- theme/
+| |-- app_layout.dart
+|-- utils/
+| |-- app_routes.dart
+
+
+Restopage/
+|--- api/
+| |--- repo/
+| | |--- Various repositories for handling API calls.
+| |--- api_exception.dart
+| |--- api_extension.dart
+| |--- api_helpers.dart
+|--- constants/
+| |--- app_assets.dart
+| |--- app_colors.dart
+| |--- app_strings.dart
+| |--- request_constants.dart
+|--- controllers/
+| |--- home_screen_controller.dart
+| |--- login_controller.dart
+| |--- new_test_order_controller.dart
+|--- models/
+| |--- Various model files representing data structures.
+|--- theme/
+| |--- app_layout.dart
+|--- utils/
+| |--- app_routes.dart
