@@ -9,7 +9,7 @@ import '../../../../../constant/app_string.dart';
 import '../../../../../utils/app_routes.dart';
 import '../../../../../widgets/app_card.dart';
 import '../../../../../controllers/home_screen_controller.dart';
-import '../status_tab_controller.dart';
+import '../../../../../controllers/status_tab_controller.dart';
 
 class PendingTab extends StatelessWidget {
   const PendingTab({super.key});

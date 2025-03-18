@@ -14,7 +14,7 @@ import '../../../../../widgets/app_progress.dart';
 import '../../../../../widgets/reverse_timer.dart';
 import '../../../../../controllers/home_screen_controller.dart';
 import '../accepted_tab/pick_up_time_screen.dart';
-import '../status_tab_controller.dart';
+import '../../../../../controllers/status_tab_controller.dart';
 
 class PendingViewScreen extends StatelessWidget {
   PendingViewScreen({super.key, this.id});

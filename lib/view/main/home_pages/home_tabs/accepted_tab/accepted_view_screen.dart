@@ -17,7 +17,7 @@ import '../../../../../widgets/app_button.dart';
 import '../../../../../widgets/app_card.dart';
 import '../../../../../widgets/reverse_timer.dart';
 import '../../../../../controllers/home_screen_controller.dart';
-import '../status_tab_controller.dart';
+import '../../../../../controllers/status_tab_controller.dart';
 
 class AcceptedViewScreen extends StatelessWidget {
   AcceptedViewScreen({super.key});

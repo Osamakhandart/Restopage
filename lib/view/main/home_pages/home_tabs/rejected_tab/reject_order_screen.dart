@@ -10,7 +10,7 @@ import 'package:url_launcher/url_launcher.dart';
 import '../../../../../constant/app_string.dart';
 import '../../../../../utils/app_routes.dart';
 import '../../../../../widgets/app_app_bar.dart';
-import '../status_tab_controller.dart';
+import '../../../../../controllers/status_tab_controller.dart';
 
 class RejectOrderScreen extends StatelessWidget {
   RejectOrderScreen({super.key});

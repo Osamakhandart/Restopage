@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:resto_page/controllers/home_screen_controller.dart';
-import 'package:resto_page/view/main/home_pages/home_tabs/status_tab_controller.dart';
+import 'package:resto_page/controllers/status_tab_controller.dart';
 import 'package:resto_page/utils/extension.dart';
 
 import '../../../../../constant/app_assets.dart';

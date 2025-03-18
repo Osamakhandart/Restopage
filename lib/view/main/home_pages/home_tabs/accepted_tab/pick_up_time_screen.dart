@@ -15,7 +15,7 @@ import 'package:resto_page/widgets/app_progress.dart';
 import '../../../../../models/home_tab_model.dart';
 import '../../../../../utils/app_routes.dart';
 import '../../../../../widgets/app_popup_menu.dart';
-import '../status_tab_controller.dart';
+import '../../../../../controllers/status_tab_controller.dart';
 
 class PickUpTimeScreen extends StatefulWidget {
   // final id = Get.arguments;

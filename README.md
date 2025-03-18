@@ -101,7 +101,6 @@ Restopage/
 │   │   │           │   ├── accepted_reservation_screen.dart
 │   │   │           │   ├── pending_reservation_screen.dart
 │   │   │           │   └── rejected_reservation_screen.dart
-│   │   │           ├── status_tab_controller.dart
 │   │   │           └── view_all_tab
 │   │   │               └── view_all_tab.dart
 │   │   ├── splash_screen.dart

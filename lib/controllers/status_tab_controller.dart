@@ -9,12 +9,12 @@ import 'package:resto_page/models/reservation_model.dart';
 import 'package:resto_page/utils/printer_class.dart';
 import 'package:resto_page/widgets/display.dart';
 
-import '../../../../api/repo/status_repo.dart';
-import '../../../../constant/app_string.dart';
-import '../../../../models/home_tab_model.dart';
-import '../../../../models/response_item.dart';
-import '../../../../models/view_order_model.dart';
-import '../../../../controllers/home_screen_controller.dart';
+import '../api/repo/status_repo.dart';
+import '../constant/app_string.dart';
+import '../models/home_tab_model.dart';
+import '../models/response_item.dart';
+import '../models/view_order_model.dart';
+import 'home_screen_controller.dart';
 
 class StatusViewController extends GetxController {
   RxBool isLoading = false.obs;

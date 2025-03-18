@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
 import 'package:resto_page/view/main/home_pages/home_tabs/accepted_tab/pick_up_time_screen.dart';
-import 'package:resto_page/view/main/home_pages/home_tabs/status_tab_controller.dart';
+import 'package:resto_page/controllers/status_tab_controller.dart';
 import 'package:resto_page/utils/extension.dart';
 import 'package:resto_page/widgets/app_progress.dart';
 import 'package:resto_page/utils/printer_class.dart';

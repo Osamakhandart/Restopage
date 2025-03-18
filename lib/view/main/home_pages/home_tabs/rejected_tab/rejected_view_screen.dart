@@ -11,7 +11,7 @@ import '../../../../../constant/app_assets.dart';
 import '../../../../../constant/app_color.dart';
 import '../../../../../widgets/app_card.dart';
 import '../../../../../controllers/home_screen_controller.dart';
-import '../status_tab_controller.dart';
+import '../../../../../controllers/status_tab_controller.dart';
 
 class RejectedViewScreen extends StatelessWidget {
   RejectedViewScreen({super.key});
