@@ -27,18 +27,18 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    projectId: 'restopage-47926',
-    apiKey: 'AIzaSyB55COjdZM5xgvM1wQRT09lB_gKqnIiRAg',
-    appId: '1:522951729770:android:250e40114395339cb02013',
+    projectId: '',
+    apiKey: '',
+    appId: '',
     androidClientId:
-        '1070334926818-5ofaaut2gmrspneslu464g9gkakgvdo3.apps.googleusercontent.com',
-    messagingSenderId: '522951729770',
-    storageBucket: 'restopage-47926.appspot.com',
+        '',
+    messagingSenderId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB2OUopp0b7qmr1F_pxKPLNYjvNnLnveqo',
-    appId: '1:522951729770:ios:ff5cff2b5ec67e70b02013',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '522951729770',
     projectId: 'restopage-47926',
     storageBucket: 'restopage-47926.appspot.com',
